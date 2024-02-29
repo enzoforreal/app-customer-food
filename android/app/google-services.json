@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721350253463",
+    "project_id": "miaexpress",
+    "storage_bucket": "miaexpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721350253463:android:52632c8523217cf47182d2",
+        "android_client_info": {
+          "package_name": "com.demo.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721350253463-hra5g5p494botgu6jqrpiu7ekv7mhjhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFzHj_s58EPsfndXvGhiwpeqMHlWfFHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721350253463-hra5g5p494botgu6jqrpiu7ekv7mhjhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

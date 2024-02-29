@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "language": "French",
+      "icon": "assets/flags/ic_france.png",
+      "languageCode": "fr"
+    },
+    {
+      "language": "Arebic",
+      "icon": "assets/flags/ic_uae.png",
+      "languageCode": "ar"
+    }
+  ]
+}
